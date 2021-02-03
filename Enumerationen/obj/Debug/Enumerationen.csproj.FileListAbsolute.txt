@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\Enumerationen\Enumerationen\bin\Debug\Enumerationen.exe.config
+C:\Users\b\source\repos\Enumerationen\Enumerationen\bin\Debug\Enumerationen.exe
+C:\Users\b\source\repos\Enumerationen\Enumerationen\bin\Debug\Enumerationen.pdb
+C:\Users\b\source\repos\Enumerationen\Enumerationen\obj\Debug\Enumerationen.csprojAssemblyReference.cache
+C:\Users\b\source\repos\Enumerationen\Enumerationen\obj\Debug\Enumerationen.Form1.resources
+C:\Users\b\source\repos\Enumerationen\Enumerationen\obj\Debug\Enumerationen.Properties.Resources.resources
+C:\Users\b\source\repos\Enumerationen\Enumerationen\obj\Debug\Enumerationen.csproj.GenerateResource.cache
+C:\Users\b\source\repos\Enumerationen\Enumerationen\obj\Debug\Enumerationen.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\Enumerationen\Enumerationen\obj\Debug\Enumerationen.exe
+C:\Users\b\source\repos\Enumerationen\Enumerationen\obj\Debug\Enumerationen.pdb
